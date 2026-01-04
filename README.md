@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Sanskar
 
-<!--
-**Sanskar1275/Sanskar1275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech student in Information Technology at **MGM University**  
+💻 Aspiring Software Developer | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Currently pursuing **BTech in Information Technology**
+- Interested in **software development, DSA, and web technologies**
+- Enjoy learning by building projects and solving problems
+- Always curious about how things work under the hood
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, Java, JavaScript  
+- **Core Skills:** Data Structures & Algorithms  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub
+
+---
+
+## 🌱 Currently Learning
+- Advanced DSA  
+- Backend development  
+- Writing clean and scalable code
+
+---
+
+## 📫 Connect With Me
+- GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+⭐ *Learning one step at a time and improving every day.*
