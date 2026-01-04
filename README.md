@@ -31,6 +31,7 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/Sanskar1275
 - Linkedin: https://www.linkedin.com/in/sanskar-sonawane-601044367/
+- Email: sanskarsonawane1207@gmail.com
 
 ---
 
