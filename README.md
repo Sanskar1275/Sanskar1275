@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sanskar
+# Hey 👋, I'm Sanskar
 
 🎓 BTech student in Information Technology at **MGM University**  
 💻 Aspiring Software Developer | Problem Solver | Lifelong Learner
@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: [github.com/Sanskar1275]
+- GitHub: https://github.com/Sanskar1275
 
 ---
 
